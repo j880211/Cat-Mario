@@ -46,7 +46,6 @@
 | Multi-player game | 20% |
 | On-line                     |  15%  |  N  |
 | Off-line                    |   5%  |  N  |
-[這邊都沒寫，有點冗。]
 
 | Enhanced items    | 15% |
 | Bullet automatic aiming     |   5%  |  Y  |
